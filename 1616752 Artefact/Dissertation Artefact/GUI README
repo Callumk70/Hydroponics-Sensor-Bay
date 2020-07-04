@@ -1,0 +1,6 @@
+1. open terminal and start Roscore
+2. open new terminal and run rosrun rosserial_python serial_node.py /dev/ttyACM0
+
+3 launch GUI
+
+
